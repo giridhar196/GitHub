@@ -9,9 +9,9 @@
 * Ultimate Code Generator - https://webcode.tools/
 
 ## Adobe Xd Resources
-* 1. https://www.xdguru.com/
-* 2. https://xdresources.co/
-* 3. https://theblog.adobe.com/five-free-ui-resources-adobe-xd/
+*  https://www.xdguru.com/
+*  https://xdresources.co/
+*  https://theblog.adobe.com/five-free-ui-resources-adobe-xd/
 
 ## Fonts:
 * 1001 Fonts - https://www.1001freefonts.com/
