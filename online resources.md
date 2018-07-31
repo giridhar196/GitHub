@@ -8,6 +8,14 @@
 * Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
 * Ultimate Code Generator - https://webcode.tools/
 
+## Adobe Xd Resources
+* 1. https://www.xdguru.com/
+* 2. https://xdresources.co/
+* 3. https://theblog.adobe.com/five-free-ui-resources-adobe-xd/
+
+## Fonts:
+* 1001 Fonts - https://www.1001freefonts.com/
+
 ## IMAGE RESOURCES:
 * Free Stock Images - https://www.pexels.com
 * Free Stock Images With Great API - https://unsplash.com/
